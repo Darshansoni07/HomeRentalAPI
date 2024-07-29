@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "GHXr6qEEJMKnRRRImadQD2ZQWMkruDVLdvgd2u0X5hM=",
+  "Source": "HomeRent",
+  "BasePath": "_content/HomeRent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeRent\\wwwroot",
+      "Source": "HomeRent",
+      "ContentRoot": "D:\\Darshan\\HomeRent\\wwwroot\\",
+      "BasePath": "_content/HomeRent",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
